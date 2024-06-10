@@ -32,3 +32,15 @@ To use Smooth-k-mean, simply clone this repository and install the required depe
 git clone <repository-url>
 cd smooth-k-mean
 pip install -r requirements.txt
+```
+Citation
+If you use Smooth-k-mean in your research or projects, please cite the original paper:
+
+```bash
+@article{he2020imbalanced,
+  title={Imbalanced Data Clustering using Equilibrium K-Means},
+  author={He, Yudong},
+  journal={arXiv preprint arXiv:2402.14490},
+  year={2020}
+}
+```
