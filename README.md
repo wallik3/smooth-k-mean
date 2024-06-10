@@ -37,10 +37,10 @@ Citation
 If you use Smooth-k-mean in your research or projects, please cite the original paper:
 
 ```bash
-@article{he2020imbalanced,
+@article{
   title={Imbalanced Data Clustering using Equilibrium K-Means},
   author={He, Yudong},
   journal={arXiv preprint arXiv:2402.14490},
-  year={2020}
+  year={2024}
 }
 ```
